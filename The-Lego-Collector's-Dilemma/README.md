@@ -1,10 +1,10 @@
 ### Project Overview
 
- After completing this project, you will have the better understanding of how to build a linear regression model. In this project, you will apply the following concepts.
+ After completing this project, I have a better understanding of how to build a linear regression model. In this project, I applied the following concepts.
 
-Train-test split
-Correlation between the features
-Linear Regression
-MSE andR^2 Evaluation Metrics
+1. Train-test split
+2. Correlation between the features
+3. Linear Regression
+4. MSE andR^2 Evaluation Metrics
 
 
