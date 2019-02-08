@@ -8,11 +8,14 @@ What is the probability that the borrower paid back their loan in full?
 
 ### Learnings from the project
 
- After completing this project, I have a better grip on the applications of descriptive statistics. In this project, I applied the following concepts:
+ After completing this project, I have a better grip on the concept of probability. In this project, I applied the following concepts:
 
 Independency check
+
 Bayes theorem
+
 Visualizing discreate variable
+
 Visualizing continuous variable
 
 
