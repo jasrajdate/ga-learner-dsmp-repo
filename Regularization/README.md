@@ -1,6 +1,6 @@
 ### Learnings from the project
 
- After completing this project, I have a better grip on the applications of descriptive statistics. In this project, I applied the following concepts:
+ After completing this project, I have a better grip on the applications of regularization. In this project, I applied the following concepts:
 
 Train-test split
 
